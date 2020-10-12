@@ -3,7 +3,7 @@
 */
 
 public class SwitchExample3 {
-public static void main(String[] args) {
+	public static void main(String[] args) {
 	String dayOfWeekArg = "Thursday";
 	String typeOfDay = "";
 	
@@ -39,6 +39,6 @@ public static void main(String[] args) {
 	pertama output akan menampilkan 'Start of work week' apabila dayOfWeekArg= monday,
 	kedua output akan menampilkan 'Midweek' apabila dayOfWeekArg= Tuesday atau Wednesday atau Friday,
 	ketiga output akan menampilkan 'end of work week' apabila dayOfWeekArg= friday,
-		namun apbila  dayOfWeekArg tidak ada dari pilhan diatas, maka akan dijalan pernyataan default.
-jadi hasil program diatas adalah 'Midweek', hal ini dikarenakan dayOfWeekArg= thursday.
+	namun apbila  dayOfWeekArg tidak ada dari pilhan diatas, maka akan dijalan pernyataan default.
+	maka hasil program diatas adalah 'Midweek', hal ini dikarenakan dayOfWeekArg= thursday.
 */
