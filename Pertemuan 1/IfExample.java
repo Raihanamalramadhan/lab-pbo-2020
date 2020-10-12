@@ -8,8 +8,8 @@ public class IfExample {
 		int age=0;
 		Scanner sc = new Scanner(System.in);
 
-		System.out.println("Masukkan umur anda:");
-		age = sc.nextInt();
+			System.out.println("Masukkan umur anda:");
+			age = sc.nextInt();
 
 		if(age>=17)
 			System.out.print("Anda sudah boleh buat KTP");
