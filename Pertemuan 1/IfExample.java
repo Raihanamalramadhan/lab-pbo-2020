@@ -15,3 +15,8 @@ public class IfExample {
 			System.out.print("Anda sudah boleh buat KTP");
  }
 } 
+
+/*
+pertama anda akan diminta memasukkan umur anda, misalkan umur yang anda masukkan 17 tahun atau lebih dari 17 tahun
+maka akan tercetak "Anda sudah boleh buat KTP" dan jika umur anda kurang dari 17 maka tidak akan menampilkan apa-apa dilayar
+*/
