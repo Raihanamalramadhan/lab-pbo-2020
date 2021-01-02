@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=TicketMesin
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ TiketMesin\ here.\r\n\ \ Kode\ program\ di\ atas\ berfokus\ pada\ penciptaan\ objek\ dari\ sebuah\ class\ dengan\ menggunakan\r\n\ \ \ \ aplikasi\ blue\ j\ lalu\ dilanjutkan\ dengan\ memberikan\ perilaku\ pada\ objek\ tersebut\ sesuai\r\n\ \ \ \ dengan\ method\ yang\ sudah\ dibuat\ sebelumnya.\r\n\ @author\ (Raihan\ Amal\ Ramadhan)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=ticketCost
+comment1.target=TicketMesin(int)
+comment1.text=\r\n\ Create\ a\ machine\ that\ issues\ tickets\ of\ the\ given\ price.\r\n
+comment2.params=
+comment2.target=TicketMesin()
+comment3.params=
+comment3.target=int\ getPrice()
+comment3.text=\r\n\ @Return\ The\ price\ of\ a\ ticket.\r\n
+comment4.params=
+comment4.target=int\ getBalance()
+comment4.text=\r\n\ Return\ The\ amount\ of\ money\ already\ inserted\ for\ the\r\n\ next\ ticket.\r\n
+comment5.params=amount
+comment5.target=void\ insertMoney(int)
+comment5.text=\r\n\ Receive\ an\ amount\ of\ money\ in\ cents\ from\ a\ customer.\r\n\ Check\ that\ the\ amount\ is\ sensible.\r\n
+comment6.params=
+comment6.target=void\ printTicket()
+comment6.text=\r\n\ Print\ a\ ticket\ if\ enough\ money\ has\ been\ inserted,\ and\r\n\ reduce\ the\ current\ balance\ by\ the\ ticket\ price.\ Print\r\n\ an\ error\ message\ if\ more\ money\ is\ required.\r\n
+comment7.params=
+comment7.target=int\ refundBalance()
+numComments=8
