@@ -23,6 +23,7 @@ public class Siswa {
 	} 
 }
 
-//	Pada kode program ini menejelaskan pada setiap method diberikan hak akses public
-
+/**
+Pada kode program ini menejelaskan pada setiap method diberikan hak akses public
+*/
 

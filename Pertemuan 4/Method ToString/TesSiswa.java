@@ -1,5 +1,5 @@
 /**
- * Write a description of class Siswa here.
+ * Write a description of class TesSiswa here.
  * materi ToString
  * @author (Raihan Amal Ramadhan)
  * @pembahasan kode lab

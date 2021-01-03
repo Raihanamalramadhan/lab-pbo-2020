@@ -1,5 +1,5 @@
 /**
- * Write a description of class Siswa here.
+ * Write a description of class TesSiswa here.
  * materi Overloading
  * @author (Raihan Amal Ramadhan)
  * @pembahasan kode lab
@@ -22,6 +22,8 @@ public class TesSiswa
     }
 }
 
-// output berupa : 12345  nama default, 8030001  Upin, Siswa1@51016012, Siswa1@29444d75
-// jadi hak di atas terjadi karena objek yang diciptakan pada baris pertama dan kedua berhasil dicetak 
-// namun pada baris selanjutnya dicetak alamat dari objeknya karena objek tidak bisa  diprint.
+/**
+output berupa : 12345  nama default, 8030001  Upin, Siswa1@51016012, Siswa1@29444d75
+  jadi hak di atas terjadi karena objek yang diciptakan pada baris pertama dan kedua berhasil dicetak 
+  namun pada baris selanjutnya dicetak alamat dari objeknya karena objek tidak bisa  diprint.
+*/

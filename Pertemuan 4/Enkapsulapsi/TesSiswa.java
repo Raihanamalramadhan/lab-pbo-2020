@@ -19,5 +19,7 @@ public class TesSiswa
     }
 }
 
-// kode di atas akan menmenciptakan objek dari class Siswa dimana parameter yang dibutuhkan diinisialisasikan langsung
-//hasilcompail error karena nrp memiliki akses private
+/**
+kode di atas akan menmenciptakan objek dari class Siswa dimana parameter yang dibutuhkan diinisialisasikan langsung
+hasilcompail error karena nrp memiliki akses private
+*/

@@ -48,4 +48,6 @@ public class Siswa
 
 }
 
-//proses ini akan menggunakan ToString
+/**
+proses ini akan menggunakan ToString
+*/

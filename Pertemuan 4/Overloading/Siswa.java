@@ -42,5 +42,7 @@ public class Siswa
     }
 }
 
-// penggunaan method overloading
-// acessor dan mutator semua hak aksesnya adalah public dan sudah diterapkan keyword this
+/**
+penggunaan method overloading
+acessor dan mutator semua hak aksesnya adalah public dan sudah diterapkan keyword this
+*/
